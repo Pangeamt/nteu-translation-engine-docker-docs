@@ -1,6 +1,6 @@
 # NTEU Translation Engine Docker - Docs
 
-User guide for NTEU translation Engines.
+User guide for NTEU translation engines.
 
 ## Usage
 
