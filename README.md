@@ -4,7 +4,7 @@ User guide for NTEU translation Engines.
 
 ## Usage
 
-### Step 1: Starts the translation server
+### Step 1: Start server
 
 ```
 sudo docker run -p 10000:10000 my-docker-tag
